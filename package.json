@@ -1,0 +1,21 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "proveskatas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keyboards": [
+    "jest",
+    "testing"
+  ],
+  "author": "EudalFerrer",
+  "license": "ISC",
+  "devDependencies": {
+    "jes": "^0.6.1"
+  },
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
